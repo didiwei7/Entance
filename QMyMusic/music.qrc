@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music_image/music_add.png</file>
+        <file>music_image/music_list_clear.png</file>
+        <file>music_image/music_list_del.png</file>
+        <file>music_image/music_list_save.png</file>
+        <file>music_image/music_loop_list.png</file>
+        <file>music_image/music_loop_random .png</file>
+        <file>music_image/music_loop_single.png</file>
+        <file>music_image/music_pause.png</file>
+        <file>music_image/music_play.png</file>
+        <file>music_image/music_pre.png</file>
+        <file>music_image/music_sound_no.png</file>
+        <file>music_image/music_stop.png</file>
+        <file>music_image/music_next.png</file>
+        <file>music_image/music_hide.png</file>
+        <file>music_image/music_lrc.png</file>
+        <file>music_image/music_show.png</file>
+        <file>music_image/music_sound.png</file>
+        <file>music_image/music_playlist.png</file>
+        <file>music.qss</file>
+    </qresource>
+</RCC>
